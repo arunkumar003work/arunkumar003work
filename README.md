@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arunkumar003work
+- 👋 Hi, I’m Arun kumar.S
 - 👀 I’m interested in ... full stack development
 - 🌱 I’m currently learning ...in jeppiaar engineering college
 - 💞️ I’m looking to collaborate on ... full stack and python projects
